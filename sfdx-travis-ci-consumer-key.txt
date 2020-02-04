@@ -1,0 +1,4 @@
+Connected App : sfdx-travis-ci
+
+Consumer Key	
+3MVG9G9pzCUSkzZvU.fy6lnlzLZAnA9B.odY_K4_K8wBjXsSjspNb0P8.b5CWHYlL6YhSusN1T2tK7JbjI9fp
